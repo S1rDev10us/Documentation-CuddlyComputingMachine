@@ -1,0 +1,66 @@
+{
+	"roguelike": true,
+	"messages": {
+		"death": [
+
+		],
+		"retire": [
+
+		],
+		"win": [
+
+		],
+		"start": [
+
+		],
+		"welcome": [
+
+		],
+		"debt": [
+
+		]
+	},
+	"events": {
+		"places": [
+
+		],
+		"events": [
+
+		],
+		"shop-events": [
+
+		]
+	},
+	"shorthands": {
+
+	},
+	"weapons": [
+
+	],
+	"items": [
+
+	],
+	"accessories": [
+
+	],
+	"predicates": {
+
+	},
+	"start": {
+		"items": [
+
+		],
+		"weapons": [
+
+		],
+		"accessories": [
+
+		],
+		"pets": [
+
+		]
+	},
+	"complete": [
+
+	]
+}
